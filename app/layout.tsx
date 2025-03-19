@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Project Management",
-  description: "Project Management Web Application",
+  title: "Modern Dashboard",
+  description: "Project Management Dashboard",
 };
 
 export default function RootLayout({
